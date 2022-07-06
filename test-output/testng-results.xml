@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-30T09:13:51 IST" name="Default suite" finished-at="2022-06-30T09:13:51 IST" duration-ms="319">
+    <groups>
+      <group name="reg">
+        <method signature="TestNG2$invocationcount.book()[pri:0, instance:Beseantechnologies.Project.TestNG2$invocationcount@48ae9b55]" name="book" class="Beseantechnologies.Project.TestNG2$invocationcount"/>
+      </group> <!-- reg -->
+      <group name="sanity">
+        <method signature="TestNG2$invocationcount.age()[pri:0, instance:Beseantechnologies.Project.TestNG2$invocationcount@48ae9b55]" name="age" class="Beseantechnologies.Project.TestNG2$invocationcount"/>
+      </group> <!-- sanity -->
+      <group name="Smoke">
+        <method signature="TestNG2$invocationcount.computer()[pri:0, instance:Beseantechnologies.Project.TestNG2$invocationcount@48ae9b55]" name="computer" class="Beseantechnologies.Project.TestNG2$invocationcount"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-06-30T09:13:51 IST" name="Default test" finished-at="2022-06-30T09:13:51 IST" duration-ms="319">
+      <class name="Beseantechnologies.Project.TestNG2$invocationcount">
+        <test-method signature="age()[pri:0, instance:Beseantechnologies.Project.TestNG2$invocationcount@48ae9b55]" started-at="2022-06-30T09:13:51 IST" name="age" finished-at="2022-06-30T09:13:51 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- age -->
+        <test-method signature="book()[pri:0, instance:Beseantechnologies.Project.TestNG2$invocationcount@48ae9b55]" started-at="2022-06-30T09:13:51 IST" name="book" finished-at="2022-06-30T09:13:51 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book -->
+        <test-method signature="computer()[pri:0, instance:Beseantechnologies.Project.TestNG2$invocationcount@48ae9b55]" started-at="2022-06-30T09:13:51 IST" name="computer" finished-at="2022-06-30T09:13:51 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- computer -->
+      </class> <!-- Beseantechnologies.Project.TestNG2$invocationcount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
